@@ -33,5 +33,5 @@ I enjoy exploring new technologies and hiking on weekends!
 ---
 
 <div align="center">
-  <img src="Y2lkPTc5MGI3NjExdTduamltZnJvczY0eHBsaHlmcnA0ZGt4MXhjd3JwdmxnMnJjc2YzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw" alt="Rotating 3D Cube" width="300" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTduamltZnJvczY0eHBsaHlmcnA0ZGt4MXhjd3JwdmxnMnJjc2YzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Rotating 3D Cube" width="300" />
 </div>
