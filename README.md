@@ -10,7 +10,7 @@ I'm a software developer passionate about building innovative applications.
 
 ### 🌟 Current Projects
 - **[Project Name](link)**: Brief description.
-  
+
 ### 💬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/yourprofile) 
 - [Twitter](https://twitter.com/yourusername)
@@ -20,4 +20,6 @@ I love exploring new technologies and hiking on weekends!
 
 ---
 
-![Profile View](https://media.giphy.com/media/xT0xeJpC5bDkXv5h2A/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/l3vR1rA8x3eVfKHi0/giphy.gif" alt="3D Cube" width="300"/>
+</div>
