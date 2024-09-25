@@ -17,16 +17,12 @@ I'm a passionate **software developer** with a knack for building innovative app
 
 ---
 
-### 🌟 Current Projects
-- **[Project Name](link)**: A brief description of what the project does and your role.
-
----
 
 ### 💬 Let's Connect
 <p>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-blue?style=flat-square&logo=about.me" /></a>
+  <a href="https://www.linkedin.com/in/aamir-saleem-lone"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://twitter.com/Crew4772"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter" /></a>
+  <a href="https://hackmack.vercel.app"><img src="https://img.shields.io/badge/-Website-blue?style=flat-square&logo=about.me" /></a>
 </p>
 
 ---
@@ -37,5 +33,5 @@ I enjoy exploring new technologies and hiking on weekends!
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7bui6Zmt7VbU3sH6/giphy.gif" alt="Rotating 3D Cube" width="300" />
+  <img src="Y2lkPTc5MGI3NjExdTduamltZnJvczY0eHBsaHlmcnA0ZGt4MXhjd3JwdmxnMnJjc2YzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw" alt="Rotating 3D Cube" width="300" />
 </div>
