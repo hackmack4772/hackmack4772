@@ -9,7 +9,6 @@ I'm a passionate **software developer** with a knack for building innovative app
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" />
@@ -21,17 +20,11 @@ I'm a passionate **software developer** with a knack for building innovative app
 ### 💬 Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/aamir-saleem-lone"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://twitter.com/Crew4772"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter" /></a>
+  <a href="https://twitter.com/hackmack4772"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter" /></a>
   <a href="https://hackmack.vercel.app"><img src="https://img.shields.io/badge/-Website-blue?style=flat-square&logo=about.me" /></a>
 </p>
 
 ---
-
-### 🎉 Fun Fact
-I enjoy exploring new technologies and hiking on weekends!
-
----
-
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTduamltZnJvczY0eHBsaHlmcnA0ZGt4MXhjd3JwdmxnMnJjc2YzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Rotating 3D Cube" width="300" />
 </div>
