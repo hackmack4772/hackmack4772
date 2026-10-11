@@ -1,30 +1,14 @@
-# 👋 Hi there, I'm **Aamir Saleem Lone**
+# Hi there, I'm Aamir Saleem Lone
 
-## 🚀 About Me
-I'm a passionate **software developer** with a knack for building innovative applications. I thrive on solving complex problems and creating seamless user experiences.
+## About Me
 
----
+Software Engineer at Comviva, building an enterprise loyalty platform that serves over 1 million users. I work on microservices, event-driven systems, and secure APIs, with a focus on Node.js, TypeScript, React, Kafka, and Redis.
 
-### 🔧 Technologies & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" />
-</p>
+## Technologies & Tools
 
----
+Node.js, TypeScript, JavaScript, React, React Native, Express.js, PostgreSQL, MongoDB, Redis, Apache Kafka, Docker, AWS
 
+## Let's Connect
 
-### 💬 Let's Connect
-<p>
-  <a href="https://www.linkedin.com/in/aamir-saleem-lone"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://twitter.com/hackmack4772"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter" /></a>
-  <a href="https://hackmack.vercel.app"><img src="https://img.shields.io/badge/-Website-blue?style=flat-square&logo=about.me" /></a>
-</p>
-
----
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTduamltZnJvczY0eHBsaHlmcnA0ZGt4MXhjd3JwdmxnMnJjc2YzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Rotating 3D Cube" width="300" />
-</div>
+LinkedIn: https://www.linkedin.com/in/aamir-saleem-lone
+Website: https://hackmack.vercel.app
